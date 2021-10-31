@@ -4,7 +4,6 @@
 
 ## Guides
 
-* [Creating your first form](guides/creating-your-first-form.md)
 * [Filters](guides/filters.md)
 * [Views](guides/views.md)
 * [Duplicate Forms](guides/duplicate-forms.md)
