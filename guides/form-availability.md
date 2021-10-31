@@ -1,11 +1,5 @@
 # Form Availability
 
-Created OnOctober 11, 2019
-
-* [Main](https://captisa.com/docs)
-* [Create & Design Forms](https://captisa.com/docs/category/create-design-forms)
-* Form Availability
-
 ### Configure form availability
 
 1\. Go to form explorer

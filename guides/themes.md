@@ -1,15 +1,5 @@
 # Themes
 
-[Skip to content](broken-reference)
-
-Created OnOctober 11, 2019
-
-byCaptisa Forms
-
-* [Main](https://captisa.com/docs)
-* [Create & Design Forms](https://captisa.com/docs/category/create-design-forms)
-* Themes
-
 Choose from 17 templates or use theme roller to customize the look and feel of your form
 
 ### To change form theme

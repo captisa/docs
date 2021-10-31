@@ -1,11 +1,5 @@
 # Word Template
 
-Created OnFebruary 8, 2020
-
-* [Main](https://captisa.com/docs)
-* [Getting Started](https://captisa.com/docs/category/getting-started)
-* Word Template
-
 After you create and import Office Word templates into Captisa Forms, with one click users can generate standardized documents automatically populated with data, or send as an attachments to emails. This feature has some special considerations you should know about to successfully create Word templates.
 
 #### Step 1: Create a Word Template

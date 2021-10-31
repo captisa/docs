@@ -1,11 +1,5 @@
 # Thank You Page
 
-Created OnOctober 11, 2019
-
-* [Main](https://captisa.com/docs)
-* [Create & Design Forms](https://captisa.com/docs/category/create-design-forms)
-* Thank You Page
-
 A ‘Thank You’ message, or confirmation message, displays after a user fills out your form. A typical success message tells your customers that their message has been sent successfully, and when they’ll receive a response from you.
 
 ### To change ‘Thank You’ message

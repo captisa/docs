@@ -1,10 +1,4 @@
-# WorkflowsMainGetting
-
-Created OnOctober 11, 2019
-
-* [Main](https://captisa.com/docs)
-* [Getting Started](https://captisa.com/docs/category/getting-started)
-* Workflows
+# Workflows
 
 ### Create a Workflow
 

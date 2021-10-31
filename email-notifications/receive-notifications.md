@@ -1,11 +1,5 @@
 # Receive Notifications
 
-Created OnOctober 10, 2019
-
-* [Main](https://captisa.com/docs)
-* [Email Notifications](https://captisa.com/docs/category/email-notification)
-* Receive Notifications
-
 ### To receive notifications
 
 1\. Go to form explorer

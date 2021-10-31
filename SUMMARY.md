@@ -5,15 +5,13 @@
 ## Guides
 
 * [Creating your first form](guides/creating-your-first-form.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
 * [Filters](guides/filters.md)
 * [Views](guides/views.md)
 * [Duplicate Forms](guides/duplicate-forms.md)
 * [Form Templates](guides/form-templates.md)
 * [Pre-Populating Form Fields](guides/pre-populating-form-fields.md)
 * [Word Template](guides/word-template.md)
-* [WorkflowsMainGetting](guides/workflowsmaingetting.md)
+* [Workflows](guides/workflows.md)
 * [Enable Entry Commenting](guides/enable-entry-commenting.md)
 * [Form Availability](guides/form-availability.md)
 * [Form Rules](guides/form-rules.md)
@@ -33,27 +31,13 @@
 ## Integration
 
 * [PowerApps Custom Connector](integration/powerapps-custom-connector.md)
-* [Azure Service Bus](integration/azure-service-bus.md)
-* [Data API](integration/data-api.md)
-* [Web Hooks](integration/web-hooks.md)
 * [Zapier](integration/zapier.md)
+* [Data API](integration/data-api.md)
+* [Azure Service Bus](integration/azure-service-bus.md)
+* [Web Hooks](integration/web-hooks.md)
 
-## Fundamentals
+## Admin Guide
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
-
-## Use Cases
-
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Roles](admin-guide/roles.md)
+* [Teams](admin-guide/teams.md)
+* [Users](admin-guide/users.md)

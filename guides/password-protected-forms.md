@@ -1,11 +1,5 @@
 # Password Protected Forms
 
-Created OnOctober 11, 2019
-
-* [Main](https://captisa.com/docs)
-* [Create & Design Forms](https://captisa.com/docs/category/create-design-forms)
-* Password Protected Forms
-
 Prevent unauthorized users from opening a form
 
 ### Password protect a form

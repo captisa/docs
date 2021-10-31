@@ -1,11 +1,5 @@
 # Form Templates
 
-Created OnOctober 10, 2019
-
-* [Main](https://captisa.com/docs)
-* [Getting Started](https://captisa.com/docs/category/getting-started)
-* Form Templates
-
 ### Create a form using template
 
 1\. Go to form explorer.

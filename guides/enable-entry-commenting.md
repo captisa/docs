@@ -1,11 +1,5 @@
 # Enable Entry Commenting
 
-Created OnOctober 11, 2019
-
-* [Main](https://captisa.com/docs)
-* [Create & Design Forms](https://captisa.com/docs/category/create-design-forms)
-* Enable Entry Commenting
-
 Easily auto-populate field values using Prefill Manager. You do not have to be in developer’s mode, know the field names or update form’s URL, our Prefill Manager takes care all of that for you. Best of all, you have the option to tag and save the form values for future reference.
 
 ### To enable entry discussion or comments

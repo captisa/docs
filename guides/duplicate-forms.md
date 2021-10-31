@@ -1,11 +1,5 @@
 # Duplicate Forms
 
-Created OnOctober 10, 2019
-
-* [Main](https://captisa.com/docs)
-* [Getting Started](https://captisa.com/docs/category/getting-started)
-* Duplicate Forms
-
 To maintain the integrity of your data, it’s a good idea to have rules in place to reduce duplicate records in the system.
 
 ### Create a duplicate detection rule
