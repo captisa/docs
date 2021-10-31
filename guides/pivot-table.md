@@ -12,14 +12,14 @@ Captisa Forms Pivot Grid allows you to create a pivot table for multi-dimensiona
 
 3\. Define Pivot Grid
 
-* 1**Filter** – Specify which filter definition must be used for the pivot grid.
-* 2**View** – Specify which view definition must be used for drill-down grid.
-* 3**Field Panel** – The field panel allows you to manage the displayed data. Drag and drop items from Fields to Rows, Columns, or Data panel.
-* 4**Chart Type** – Select chart type so data can be displayed in a meaningful way. Captisa charts supports side-by-side bar, stacked bar, full stacked bar, line, spline, step line, area, spline area, pie, and doughnut.
-* 5**Pallette** – Change the color palette for the chart by selecting a pre-defined palette.
-* 6**Legend Position** – The Chart can include a legend – an explanatory component that helps you identify a series. Each series is represented by an item on a Legend. An item marker identifies the series color.
-* 7**Load** – Load or refresh pivot grid.
-* 8**Drill Down to the Underlying Data** – The Chart can include a legend – an explanatory component that helps you identify a series. Each series is represented by an item on a Legend. An item marker identifies the series color.
+1. **Filter** – Specify which filter definition must be used for the pivot grid.
+2. **View** – Specify which view definition must be used for drill-down grid.
+3. **Field Panel** – The field panel allows you to manage the displayed data. Drag and drop items from Fields to Rows, Columns, or Data panel.
+4. **Chart Type** – Select chart type so data can be displayed in a meaningful way. Captisa charts supports side-by-side bar, stacked bar, full stacked bar, line, spline, step line, area, spline area, pie, and doughnut.
+5. **Palette** – Change the color palette for the chart by selecting a pre-defined palette.
+6. **Legend Position** – The Chart can include a legend – an explanatory component that helps you identify a series. Each series is represented by an item on a Legend. An item marker identifies the series color.
+7. **Load** – Load or refresh pivot grid.
+8. **Drill Down to the Underlying Data** – The Chart can include a legend – an explanatory component that helps you identify a series. Each series is represented by an item on a Legend. An item marker identifies the series color.
 
 ![](https://trello-attachments.s3.amazonaws.com/5dacdacf53e5317ccb7302f9/5dacdb3a51de67625bf3ccf7/32f98b07d41dcf1dd643a3c5b82f60d7/pivot-grid-control.png)
 
