@@ -1,26 +1,26 @@
 # Table of contents
 
-* [Captisa Forms](README.md)
+* [© Captisa Forms](README.md)
 
 ## Guides
 
 * [Dashboards](guides/dashboards.md)
 * [Duplicate Rules](guides/duplicate-rules.md)
 * [Duplicate Forms](guides/duplicate-forms.md)
+* [Enable Entry Commenting](guides/enable-entry-commenting.md)
 * [Filters](guides/filters.md)
 * [Form Availability](guides/form-availability.md)
 * [Form Rules](guides/form-rules.md)
 * [Form Templates](guides/form-templates.md)
-* [Views](guides/views.md)
-* [Pre-Populating Form Fields](guides/pre-populating-form-fields.md)
-* [Word Template](guides/word-template.md)
-* [Workflows](guides/workflows.md)
-* [Enable Entry Commenting](guides/enable-entry-commenting.md)
-* [Password Protected Forms](guides/password-protected-forms.md)
 * [Payment](guides/payment.md)
+* [Password Protected Forms](guides/password-protected-forms.md)
+* [Pre-Populating Form Fields](guides/pre-populating-form-fields.md)
+* [Pivot Table](guides/pivot-table.md)
 * [Thank You Page](guides/thank-you-page.md)
 * [Themes](guides/themes.md)
-* [Pivot Table](guides/pivot-table.md)
+* [Views](guides/views.md)
+* [Word Template](guides/word-template.md)
+* [Workflows](guides/workflows.md)
 
 ## Email Notifications
 
@@ -40,3 +40,5 @@
 * [Roles](admin-guide/roles.md)
 * [Teams](admin-guide/teams.md)
 * [Users](admin-guide/users.md)
+* [Portal](admin-guide/portal.md)
+* [Sitemap](admin-guide/sitemap.md)
