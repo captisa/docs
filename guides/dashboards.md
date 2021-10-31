@@ -4,10 +4,10 @@ Captisa Forms dashboard is an information management tool that visually tracks, 
 
 ### Create Dashboard
 
-1\. Go to Settings
+1\. Go to `Settings`
 
 1. On navigation menu, click Dasboards
-2. Click Add button
+2. Click `Add `button
 
 ![](https://s3.us-west-1.wasabisys.com/captisa-images/dashboard-create.png)
 
@@ -15,7 +15,7 @@ Captisa Forms dashboard is an information management tool that visually tracks, 
 
 1. Select dashboard template
 2. Enter dashboard name
-3. Click on Create button
+3. Click on `Create `button
 
 ![](https://s3.us-west-1.wasabisys.com/captisa-images/dashboard-select-template.png)
 

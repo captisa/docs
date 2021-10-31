@@ -4,22 +4,22 @@
 
 ## Guides
 
-* [Filters](guides/filters.md)
-* [Views](guides/views.md)
+* [Dashboards](guides/dashboards.md)
+* [Duplicate Rules](guides/duplicate-rules.md)
 * [Duplicate Forms](guides/duplicate-forms.md)
+* [Filters](guides/filters.md)
+* [Form Availability](guides/form-availability.md)
+* [Form Rules](guides/form-rules.md)
 * [Form Templates](guides/form-templates.md)
+* [Views](guides/views.md)
 * [Pre-Populating Form Fields](guides/pre-populating-form-fields.md)
 * [Word Template](guides/word-template.md)
 * [Workflows](guides/workflows.md)
 * [Enable Entry Commenting](guides/enable-entry-commenting.md)
-* [Form Availability](guides/form-availability.md)
-* [Form Rules](guides/form-rules.md)
 * [Password Protected Forms](guides/password-protected-forms.md)
 * [Payment](guides/payment.md)
 * [Thank You Page](guides/thank-you-page.md)
 * [Themes](guides/themes.md)
-* [Dashboards](guides/dashboards.md)
-* [Duplicate Rules](guides/duplicate-rules.md)
 * [Pivot Table](guides/pivot-table.md)
 
 ## Email Notifications
