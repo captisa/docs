@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is Captisa Forms?](README.md)
+* [Captisa Forms](README.md)
 
 ## Guides
 
