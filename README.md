@@ -1,12 +1,10 @@
 # Captisa Forms
 
-![](<.gitbook/assets/Captisa Forms (1).png>)
+![](<.gitbook/assets/Captisa Forms.png>)
 
 **Captisa Forms** is an online form builder with database storage. Create free online forms with sub-forms, workflows, conditional logic, duplicate detection rules, multi-level select, lookup, repeating panels, tabs, accordions.&#x20;
 
 Create views and filters use them to analyze your data using charts or pivot grids, and then present them in dashboard.
-
-
 
 
 
