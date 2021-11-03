@@ -1,5 +1,7 @@
 # Filters
 
+![](../.gitbook/assets/Filters.png)
+
 Apply filters to view select records. Filtering is a useful way to see only the data you want displayed. You can use filters to display specific records in data entries. A drop-down list of filters is displayed in the application so that users have options for different filters of form data. The records that are visible in individual views are displayed in a list, sometimes called a grid, which frequently provides options so that users can change the default sorting, column widths, and filters to more easily see the data that’s important to them. Filters also define the data source for look up records, charts, pivot grids, and dashboard that are used in the application.
 
 ### Create a filter

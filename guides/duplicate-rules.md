@@ -6,9 +6,9 @@ To maintain the integrity of your data, it’s a good idea to have rules in plac
 
 ### Create a duplicate detection rule
 
-1\. Go to form explorer.
+1\. Go to Form explorer.
 
-2\. Select the form you want to create the duplicate rule for, then click on ‘Rules -> Duplicate Rules’ menu item from the toolbar.
+2\. Select the form you want to create the duplicate rule for, then click on `Rules` -> `Duplicate Rules` menu item from the toolbar.
 
 ![](https://captisa.com/wp-content/uploads/2018/11/FormRules1-1.png)
 
@@ -22,15 +22,15 @@ The duplicate rule designer opens with a single rule created for you.
 
 5\. Add rule. To Add rule:
 
-a. Select a field from the list
+![](../.gitbook/assets/1-24.png)Select a field from the list
 
 ![](https://captisa.com/wp-content/uploads/2018/11/duplicateRuleFields.png)
 
-b. Select operator
+![](../.gitbook/assets/2.24.png)Select operator
 
 ![](https://captisa.com/wp-content/uploads/2018/11/duplicateRuleOperator.png)
 
-c. Enter message to show to the user
+![](../.gitbook/assets/3-24.png)Enter message to show to the user
 
 ![](https://captisa.com/wp-content/uploads/2018/11/duplicate-rule-1.png)
 
