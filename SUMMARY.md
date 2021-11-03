@@ -41,4 +41,4 @@
 * [Teams](admin-guide/teams.md)
 * [Users](admin-guide/users.md)
 * [Portal](admin-guide/portal.md)
-* [Sitemap](admin-guide/sitemap.md)
+* [Sitemap Builder](admin-guide/sitemap-builder.md)
