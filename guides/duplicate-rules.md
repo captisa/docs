@@ -1,5 +1,7 @@
 # Duplicate Rules
 
+![](<../.gitbook/assets/Duplicate Rule.png>)
+
 To maintain the integrity of your data, it’s a good idea to have rules in place to reduce duplicate records in the system.
 
 ### Create a duplicate detection rule

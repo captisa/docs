@@ -6,7 +6,6 @@
 
 * [Dashboards](guides/dashboards.md)
 * [Duplicate Rules](guides/duplicate-rules.md)
-* [Duplicate Forms](guides/duplicate-forms.md)
 * [Enable Entry Commenting](guides/enable-entry-commenting.md)
 * [Filters](guides/filters.md)
 * [Form Availability](guides/form-availability.md)
@@ -21,6 +20,7 @@
 * [Views](guides/views.md)
 * [Word Template](guides/word-template.md)
 * [Workflows](guides/workflows.md)
+* [Duplicate Forms](guides/duplicate-forms.md)
 
 ## Email Notifications
 
