@@ -1,6 +1,6 @@
 # Duplicate Rules
 
-![](<../.gitbook/assets/Duplicate Rule.png>)
+![](<../.gitbook/assets/Duplicate Rule (1).png>)
 
 To maintain the integrity of your data, it’s a good idea to have rules in place to reduce duplicate records in the system.
 
