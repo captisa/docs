@@ -69,3 +69,7 @@ Captisa Forms dashboard is an information management tool that visually tracks, 
 ![](../.gitbook/assets/5-24.png)Select `filters`. You can select 1 or more filters. This is useful when you want to switch between filters while viewing the table.
 
 ![](https://s3.us-west-1.wasabisys.com/captisa-images/dashboard-create-define-table.PNG)
+
+### Try it out
+
+{% embed url="https://secure.captisa.com/account/login?email=demo.user%40test.com&passw=%40Demo123" %}
