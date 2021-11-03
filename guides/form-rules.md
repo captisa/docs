@@ -1,5 +1,7 @@
 # Form Rules
 
+![](<../.gitbook/assets/Form Rules.PNG>)
+
 You can create form rules and recommendations to apply form logic without writing JavaScript code. Form rules provide a simple interface to implement commonly used rules. By combining conditions and actions, you can do the following with form rules:
 
 * Set field value based on formula, value from another field, and constant value
