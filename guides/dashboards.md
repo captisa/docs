@@ -21,7 +21,7 @@ Captisa Forms dashboard is an information management tool that visually tracks, 
 
 4\. Select the new dashboard and then click on Edit button
 
-**Chart Widget**
+### **Chart Widget**
 
 1\. Add Chart Widget
 
@@ -39,7 +39,7 @@ Captisa Forms dashboard is an information management tool that visually tracks, 
 
 ![](https://s3.us-west-1.wasabisys.com/captisa-images/dashboard-define-chart-dashboard.png)
 
-**Table Widget**
+### **Table Widget**
 
 1\. Add Table Widget
 
