@@ -31,3 +31,7 @@ b. Select operator
 c. Enter message to show to the user
 
 ![](https://captisa.com/wp-content/uploads/2018/11/duplicate-rule-1.png)
+
+### Try it out
+
+{% embed url="https://secure.captisa.com/p?embed=true&id=43669db1-76a4-418d-bdde-0248d6d521a7&prefill=1" %}
