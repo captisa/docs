@@ -53,3 +53,10 @@ b. Select field(s) for which you want to apply the action.
 Below is an example of a form with rules to make fields required or not required based on value of another field. See [**form rule**](https://secure.captisa.com/template?id=5df90e00-6061-4248-9249-0540a634bbec) in action.
 
 ![](https://captisa.com/wp-content/uploads/2018/11/FormRuleRequiredExample.png)
+
+### See it in action
+
+{% embed url="https://secure.captisa.com/p?embed=true&id=279a1ef4-dae7-48ea-8cc2-5f3f616b8ef6&prefill=1" %}
+
+{% embed url="https://secure.captisa.com/p?embed=true&id=cd0b6e7b-01fb-49a3-82b7-f8799639ea8f" %}
+
