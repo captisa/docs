@@ -42,3 +42,8 @@
 * [Users](admin-guide/users.md)
 * [Portal](admin-guide/portal.md)
 * [Sitemap Builder](admin-guide/sitemap-builder.md)
+
+## Resources
+
+* [Idea Board](https://trello.com/b/HWVPq6wt/idea-board)
+* [Templates](https://secure.captisa.com/template)
