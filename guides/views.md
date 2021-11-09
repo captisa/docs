@@ -1,5 +1,7 @@
 # Views
 
+![](../.gitbook/assets/Views.png)
+
 Use views to define how a list of records for a specific form is displayed in the application. A view defines:
 
 * Columns to display

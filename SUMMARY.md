@@ -41,7 +41,7 @@
 * [Teams](admin-guide/teams.md)
 * [Users](admin-guide/users.md)
 * [Portal](admin-guide/portal.md)
-* [Sitemap Builder](admin-guide/sitemap-builder.md)
+* [App Builder](admin-guide/app-builder.md)
 
 ## Resources
 

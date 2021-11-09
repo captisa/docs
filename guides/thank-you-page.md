@@ -18,14 +18,18 @@ A ‘Thank You’ message, or confirmation message, displays after a user fills 
 
 Below are examples you can use:
 
-> Thanks for contacting our customer support team. We’re on it! \
-> We look forward to helping you and will get back to you as soon as possible.
+{% hint style="info" %}
+Thanks for contacting our customer support team. We’re on it! \
+We look forward to helping you and will get back to you as soon as possible.
+{% endhint %}
 
-> Thank you for getting in touch!
->
-> We appreciate you contacting us about our cupcakes. One of our sales person will reach out to you as soon as possible.
->
-> In the meantime, you can check out the following resources:\
-> FAQ\
-> Tutorials\
-> Blogs
+{% hint style="info" %}
+Thank you for getting in touch!
+
+We appreciate you contacting us about our cupcakes. One of our sales person will reach out to you as soon as possible.
+
+In the meantime, you can check out the following resources:\
+FAQ\
+Tutorials\
+Blogs
+{% endhint %}

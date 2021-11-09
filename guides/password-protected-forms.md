@@ -1,5 +1,7 @@
 # Password Protected Forms
 
+![](<../.gitbook/assets/Password Protected Form.png>)
+
 Prevent unauthorized users from opening a form
 
 ### Password protect a form
