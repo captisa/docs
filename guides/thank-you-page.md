@@ -1,20 +1,20 @@
 # Thank You Page
 
-A ‘Thank You’ message, or confirmation message, displays after a user fills out your form. A typical success message tells your customers that their message has been sent successfully, and when they’ll receive a response from you.
+A ‘Thank You,’ or confirmation message, is displayed after a user fills out your form. A typical success message tells your customers that their message has been sent successfully and when they’ll receive a response from you.
 
-### To change ‘Thank You’ message
+### To change the ‘Thank You’ message
 
 1\. Go to form explorer.
 
-2\. Select the form you want to change confirmation message, click on settings button, and wait for the settings form to load.
+2\. Select the form with the confirmation message you want to change, click on the Settings button, and wait for the settings form to load.
 
 ![](https://captisa.com/wp-content/uploads/2019/10/enable-entry-comment-1.png)
 
-3\. On the message section, change the message you want to display to your user after filling out the form.
+3\. On the message section, change the message that you want your user to see after filling out the form.
 
 ![](https://captisa.com/wp-content/uploads/2019/10/thank-you-page-message.png)
 
-4\. Click on Save button
+4\. Click on the Save button.
 
 Below are examples you can use:
 

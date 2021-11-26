@@ -2,7 +2,7 @@
 
 
 
-Captisa Forms allows you to build powerful online forms with workflows, conditional logic, duplicate detection rules, multi-level select, lookup, repeating panels, tabs, accordions. Create views and filters use them to analyze your data using charts or pivot grids, and then present them in dashboard.
+Captisa Forms allows you to build powerful online forms with workflows, conditional logic, duplicate detection rules, multi-level select, lookup, repeating panels, tabs, and accordions. Create views and filters and use them to analyze your data using charts or pivot grids, and then present them in the dashboard.
 
 #### In this article
 
@@ -26,21 +26,21 @@ This connector is available in the following products and regions:
 
 ### Prerequisites <a href="prerequisites" id="prerequisites"></a>
 
-Create a free account on captisa.com
+Create a free account on captisa.com.
 
-### How to get credentials <a href="how-to-get-credentials" id="how-to-get-credentials"></a>
+### How to get credentials? <a href="how-to-get-credentials" id="how-to-get-credentials"></a>
 
-1. Login to your Captisa Forms account
-2. Navigate to System -> Settings
-3. Click on 'Personal Access Token' button
-4. Click on 'Generate Token' button
-5. Click 'Copy' button to copy the token.
+1. Log in to your Captisa Forms account.
+2. Navigate to System -> Settings.
+3. Click on the 'Personal Access Token' button.
+4. Click on the 'Generate Token' button.
+5. Click the 'Copy' button to copy the token.
 
-NOTE: Make sure to copy personal access token. You won’t be able to see it again!
+NOTE: Make sure to copy the personal access token. You won’t be able to see it again!
 
 ### Getting started with your connector <a href="getting-started-with-your-connector" id="getting-started-with-your-connector"></a>
 
-Captisa Forms connector allows you to send form entries or updates to another app through triggers. A good example is when a new form entry is created in Captisa Forms you can use custom connector to create records in Dynamics 365, Marketo, etc. It also create and update actions which allows you to create or update records in you Captisa Forms account.
+Captisa Forms connector allows you to send form entries or updates to another app through triggers. A good example is when a new form entry is created in Captisa Forms, you can use a custom connector to create records in Dynamics 365, Marketo, etc. It also creates and updates actions that allow you to create or update records in your Captisa Forms account.
 
 ### Common errors and remedies <a href="common-errors-and-remedies" id="common-errors-and-remedies"></a>
 
@@ -64,7 +64,7 @@ Applicable: All regions
 
 Parameters for creating connection.
 
-This is not shareable connection. If the power app is shared with another user, another user will be prompted to create new connection explicitly.
+This is not a shareable connection. If the power app is shared with another user, another user will be prompted to create a new connection explicitly.
 
 | Name    | Type         | Description              | Required |
 | ------- | ------------ | ------------------------ | -------- |
@@ -84,7 +84,7 @@ This is not shareable connection. If the power app is shared with another user, 
 
 #### Create an Entry <a href="create-an-entry" id="create-an-entry"></a>
 
-Create an Entry
+Create an Entry.
 
 **Parameters**
 
@@ -97,7 +97,7 @@ Create an Entry
 
 #### Update an Entry <a href="update-an-entry" id="update-an-entry"></a>
 
-Update an Entry
+Update an Entry.
 
 **Parameters**
 
@@ -117,7 +117,7 @@ Update an Entry
 
 #### When a form record is created <a href="when-a-form-record-is-created" id="when-a-form-record-is-created"></a>
 
-This operation triggers a flow each time a form gets a new submission
+This operation triggers a flow each time a form gets a new submission.
 
 **Parameters**
 
@@ -131,7 +131,7 @@ The outputs of this operation are dynamic.
 
 #### When a form record is updated <a href="when-a-form-record-is-updated" id="when-a-form-record-is-updated"></a>
 
-This operation triggers a flow each time an entry in your form is updated
+This operation triggers a flow each time an entry in your form is updated.
 
 **Parameters**
 
@@ -145,7 +145,7 @@ The outputs of this operation are dynamic.
 
 ### Definitions <a href="definitions" id="definitions"></a>
 
-#### FormFieldResponse <a href="formfieldresponse" id="formfieldresponse"></a>
+#### Form Field Response <a href="formfieldresponse" id="formfieldresponse"></a>
 
 | Name         | Path         | Type    | Description  |
 | ------------ | ------------ | ------- | ------------ |
@@ -156,4 +156,4 @@ The outputs of this operation are dynamic.
 
 ### Feedback <a href="feedback" id="feedback"></a>
 
-Submit and view feedback for
+Submit and view feedback.&#x20;
