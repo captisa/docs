@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/Dashboard.png)
 
-Captisa Forms **dashboard** is an information management tool that visually tracks, analyzes, and displays key performance indicators (KPI), metrics, and key data points to monitor the health of a business, department, or specific process. They are customizeable to meet the specified needs of a department and company.
+Captisa Forms **dashboard** is an information management tool that visually tracks, analyzes, and displays key performance indicators (KPI), metrics, and key data points to monitor the health of a business, department, or specific process. They are customizable to meet the specified needs of a department and company.
 
 ### Create Dashboard
 
